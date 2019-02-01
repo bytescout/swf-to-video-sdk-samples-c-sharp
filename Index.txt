@@ -7,20 +7,20 @@
 \FLV  to WMV
 \Multiple Conversions At Once
 \Set Audio Track
-\SWF parameters to PNG
-\SWF to lossless AVI
+\SWF Parameters to PNG
+\SWF to Lossless AVI
 \SWF to PNG
-\SWF to PNG (all frames)
+\SWF to PNG (All Frames)
 \SWF to PNG Large Size
-\SWF to PNG with transparency
-\SWF to uncompressed AVI
+\SWF to PNG with Transparency
+\SWF to Uncompressed AVI
 \SWF To Video
 \SWF To WebM
 \SWF to WMV
-\SWF to WMV with live preview
-\SWF with data to AVI
-\SWF with data to PNG
-\SWF with data to WEBM
-\SWF with data to WMV
+\SWF to WMV with Live Preview
+\SWF with Data to AVI
+\SWF with Data to PNG
+\SWF with Data to WEBM
+\SWF with Data to WMV
 \Video Length Setting
-\SWF to WMV with live preview\PreviewContext
+\SWF to WMV with Live Preview\PreviewContext
